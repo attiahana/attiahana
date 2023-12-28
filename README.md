@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @attiahana
 - 👀 I’m interested in ERP: Odoo, PHP: Symfony
-- 🌱 I’m currently learning spanch,
+- 🌱 I’m currently learning spring boot,
 - 📫 How to reach me ...
 
 <!---
